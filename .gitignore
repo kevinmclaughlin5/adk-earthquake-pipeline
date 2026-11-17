@@ -1,0 +1,10 @@
+.env
+*.json.key
+service-account*.json
+.venv/
+venv/
+__pycache__/
+*.pyc
+output/
+.adk/
+.DS_Store
